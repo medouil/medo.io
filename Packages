@@ -1,0 +1,21 @@
+
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Version: 1.8.2-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0)
+Filename: ./debs/appsmanager_1.8.2-5.deb
+Size: 2518478
+MD5sum: eb6c5095ab86800f5e49b8df091f07a2
+SHA1: 95d425e279d92a12dbb6ffe4eb6b48523e7ae928
+SHA256: 4ef336fc36f0b132b237a3ffb832259c729c2a237c42e9b39d8ee46573fddc5c
+Section: الادوات
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+SileoDepiction: 
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Installed-size: 0
+
+
